@@ -1,10 +1,10 @@
 <?php
 // *** แก้ค่าตามเครื่องคุณ ***
-const DB_HOST = 'localhost';
-const DB_NAME = 's67160343';
-const DB_USER = 's67160343';
-const DB_PASS = '4U3CFRTZ';
-const DB_CHARSET = 'utf8mb4';
+const DB_HOST = '';
+const DB_NAME = '';
+const DB_USER = '';
+const DB_PASS = '';
+const DB_CHARSET = '';
 
 // ตั้งค่า session ให้ปลอดภัยขึ้น
 if (session_status() === PHP_SESSION_NONE) {
